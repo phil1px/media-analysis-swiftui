@@ -51,6 +51,7 @@ let serverURL = URL(string: "http://<your-server-ip>:3000/authenticate")!
 ```
 
 ## License
+MIT - 2024 - [Carlos hperc](https://github.com/carloshpdoc/get-describer-ads-iOS?tab=MIT-1-ov-file)
 
 ## Contributing
 
