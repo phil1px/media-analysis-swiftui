@@ -49,16 +49,3 @@ Update the server URL in the ContentView.swift file to point to your backend ser
 ```swift
 let serverURL = URL(string: "http://<your-server-ip>:3000/authenticate")!
 ```
-
-## License
-[MIT - 2024](https://github.com/carloshpdoc/get-describer-ads-iOS?tab=MIT-1-ov-file) / [Carlos hperc](https://carloshperc.com)
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request for any improvements.
-
-## Contact
-
-For any questions or issues, please contact contato@carloshperc.com.
-
-   
